@@ -6,4 +6,12 @@
 \img\faces\Agil.rpgmvp https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Agilface.rpgmvp
 \img\faces\LeoKid.rpgmvp https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/LeoKidface.rpgmvp
 \img\sv_actors\LeonKid.rpgmvp https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/LeonKidsv.rpgmvp
+\data\Actors.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Actors.json
+\data\Map001.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Map001.json
+\data\Map002.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Map002.json
+\data\Map003.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Map003.json
+\data\Map004.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Map004.json
+\data\Map005.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Map005.json
+\data\Map006.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Map006.json
+\data\Map007.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Map007.json
 <End of Version>
