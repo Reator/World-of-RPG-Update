@@ -15,6 +15,7 @@
 \data\Map006.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Map006.json
 \data\Map007.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Map007.json
 <End of Version>
-img\faces\LeoKid.rpgmvp https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Agilface.rpgmvp
-<Version: 1.04>
 
+<Version: 1.04>
+img\faces\LeoKid.rpgmvp https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Agilface.rpgmvp
+<End of Version>
