@@ -15,3 +15,8 @@
 \data\Map006.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.04/Map006.json
 \data\Map007.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.04/Map007.json
 <End of Version>
+
+<Version: 1.05>
+\data\Map004.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.05/Map004.json
+\data\Map007.json https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.05/Map007.json
+<End of Version>
