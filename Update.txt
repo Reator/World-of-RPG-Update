@@ -1,5 +1,5 @@
 
-<Version: 1.01>
+<Version: 1.03>
 \save\version.sumrndmdde https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/version.sumrndmdde
 \img\characters\Agil.rpgmvp https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/Agilchar.rpgmvp
 \img\characters\LeoKid.rpgmvp https://raw.githubusercontent.com/Reator/World-of-RPG-Update/master/World%20of%20RPG%20Updates/1.03/LeoKidchar.rpgmvp
