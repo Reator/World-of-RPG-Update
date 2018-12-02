@@ -1,1 +1,4 @@
 
+<Version: 1.02>
+\img\sv_actors http://www.mediafire.com/file/9ty81eexc4pz8lv/LeonKid.rpgmvp
+<End of Version>
