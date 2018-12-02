@@ -1,4 +1,4 @@
 
 <Version: 1.02>
-\img\sv_actors\LeonKid.rpgmvp http://www.mediafire.com/file/9ty81eexc4pz8lv/LeonKid.rpgmvp
+\img\sv_actors\Q6hkatD.png http://i.imgur.com/Q6hkatD.png
 <End of Version>
